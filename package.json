@@ -1,0 +1,13 @@
+{
+  "name": "tinyglobby-brace-expansion",
+  "type": "module",
+  "packageManager": "yarn@4.5.3",
+  "scripts": {
+    "comparison": "node index.js"
+  },
+  "dependencies": {
+    "fast-glob": "^3.3.2",
+    "globby": "^14.0.2",
+    "tinyglobby": "^0.2.10"
+  }
+}
